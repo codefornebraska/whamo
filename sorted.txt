@@ -261,13 +261,7 @@ Image_20221212_0181-002.tiff|The Nebraska Observer|January 31, 1991|Vol.VI, #2, 
 Image_20221212_0180-001.tiff|The Nebraska Observer|January 31, 1991|Vol.VI, #2, p.14|Frances Mendenhall, Publisher
 Image_20221212_0179-002.tiff|The Nebraska Observer|January 31, 1991|Vol.VI, #2, p.15|Frances Mendenhall, Publisher
 Image_20221212_0178-001.tiff|The Nebraska Observer|January 31, 1991|Vol.VI, #2, p.16|Frances Mendenhall, Publisher
-Image_20221212_0192-001.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.10|Frances Mendenhall, Publisher
-Image_20221212_0191-002.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.11|Frances Mendenhall, Publisher
-Image_20221212_0190-001.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.12|Frances Mendenhall, Publisher
-Image_20221212_0189-002.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.13|Frances Mendenhall, Publisher
-Image_20221212_0188-001.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.14|Frances Mendenhall, Publisher
-Image_20221212_0187-002.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.15|Frances Mendenhall, Publisher
-Image_20221212_0186-001.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.16|Frances Mendenhall, Publisher
+
 Image_20221212_0186-002.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.1|Frances Mendenhall, Publisher
 Image_20221212_0187-001.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.2|Frances Mendenhall, Publisher
 Image_20221212_0188-002.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.3|Frances Mendenhall, Publisher
@@ -277,6 +271,13 @@ Image_20221212_0191-001.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b
 Image_20221212_0192-002.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.7|Frances Mendenhall, Publisher
 Image_20221212_0193-001.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.8|Frances Mendenhall, Publisher
 Image_20221212_0193-002.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.9|Frances Mendenhall, Publisher
+Image_20221212_0192-001.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.10|Frances Mendenhall, Publisher
+Image_20221212_0191-002.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.11|Frances Mendenhall, Publisher
+Image_20221212_0190-001.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.12|Frances Mendenhall, Publisher
+Image_20221212_0189-002.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.13|Frances Mendenhall, Publisher
+Image_20221212_0188-001.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.14|Frances Mendenhall, Publisher
+Image_20221212_0187-002.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.15|Frances Mendenhall, Publisher
+Image_20221212_0186-001.tiff|The Nebraska Observer|January 31b, 1991|Vol.VI, #2b, p.16|Frances Mendenhall, Publisher
 
 Image_20221212_0234-002.tiff|The Nebraska Observer|July 12, 1991|Vol.VI, #7, p.1|Frances Mendenhall, Publisher
 Image_20221212_0235-001.tiff|The Nebraska Observer|July 12, 1991|Vol.VI, #7, p.2|Frances Mendenhall, Publisher
