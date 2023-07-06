@@ -619,10 +619,6 @@ Image_20221212_0006-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|
 
 Image_20221212_0106-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 28, 1990|Vol. V, #4, p.4|Frances Mendenhall, Publisher
 
-Image_20221212_0030-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.10|Frances Mendenhall, Publisher
-Image_20221212_0030-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.10|Frances Mendenhall, Publisher
-Image_20221212_0029-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.11|Frances Mendenhall, Publisher
-Image_20221212_0028-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.12|Frances Mendenhall, Publisher
 Image_20221212_0028-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.1|Frances Mendenhall, Publisher
 Image_20221212_0029-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.2|Frances Mendenhall, Publisher
 Image_20221212_0031-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.4|Frances Mendenhall, Publisher
@@ -631,6 +627,10 @@ Image_20221212_0033-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|
 Image_20221212_0033-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.7|Frances Mendenhall, Publisher
 Image_20221212_0032-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.8|Frances Mendenhall, Publisher
 Image_20221212_0031-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.9|Frances Mendenhall, Publisher
+Image_20221212_0030-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.10|Frances Mendenhall, Publisher
+Image_20221212_0030-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.10|Frances Mendenhall, Publisher
+Image_20221212_0029-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.11|Frances Mendenhall, Publisher
+Image_20221212_0028-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.12|Frances Mendenhall, Publisher
 
 Image_20221212_0001-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March, 1988|Vol. III, #3, p. 1|Frances Mendenhall, Publisher
 Image_20221212_0002-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March, 1988|Vol. III, #3, p. 2|Frances Mendenhall, Publisher
@@ -655,23 +655,23 @@ Image_20221208_0017-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|
 Image_20221208_0016-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|November, 1987|Vol. II, #9, p. 7|Frances Mendenhall, Publisher
 Image_20221208_0015-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|November, 1987|Vol. II, #9, p. 8|Frances Mendenhall, Publisher
 
-Image_20221208_0013-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #7, p. 3|Frances Mendenhall, Publisher
-Image_20221208_0014-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #7, p. 4|Frances Mendenhall, Publisher
-Image_20221208_0013-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #7, p. 6|Frances Mendenhall, Publisher
 Image_20221208_0011-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #8, p. 1|Frances Mendenhall, Publisher
 Image_20221208_0012-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #8, p. 2|Frances Mendenhall, Publisher
+Image_20221208_0013-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #7, p. 3|Frances Mendenhall, Publisher
+Image_20221208_0014-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #7, p. 4|Frances Mendenhall, Publisher
 Image_20221208_0014-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #8, p. 5|Frances Mendenhall, Publisher
+Image_20221208_0013-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #7, p. 6|Frances Mendenhall, Publisher
 Image_20221208_0012-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #8, p. 7|Frances Mendenhall, Publisher
 Image_20221208_0011-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #8, p. 8|Frances Mendenhall, Publisher
 
-Image_20221208_0007-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol II, No. 7, p. 8|Frances Mendenhall, Publisher
-Image_20221208_0009-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p. 3|Frances Mendenhall, Publisher
-Image_20221208_0010-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p. 5|Frances Mendenhall, Publisher
-Image_20221208_0008-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p. 7|Frances Mendenhall, Publisher
-Image_20221208_0008-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p.2|Frances Mendenhall, Publisher
-Image_20221208_0010-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p.4|Frances Mendenhall, Ed.
-Image_20221208_0009-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p.6|Frances Mendenhall, Publisher
 Image_20221208_0007-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol.II, No. 7, p.1|Frances Mendenhall, Publisher
+Image_20221208_0008-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p.2|Frances Mendenhall, Publisher
+Image_20221208_0009-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p. 3|Frances Mendenhall, Publisher
+Image_20221208_0010-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p.4|Frances Mendenhall, Ed.
+Image_20221208_0010-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p. 5|Frances Mendenhall, Publisher
+Image_20221208_0009-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p.6|Frances Mendenhall, Publisher
+Image_20221208_0008-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p. 7|Frances Mendenhall, Publisher
+Image_20221208_0007-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol II, No. 7, p. 8|Frances Mendenhall, Publisher
 
 Image_20221212_0107-002.tiff||April 1, 1990|Insert (satire), p.2/2|Frances Mendenhall, Publisher
 Image_20221212_0119-002.tiff||June 2, 1990|Vol. V, #6, p.11|Frances Mendenhall, Publisher
