@@ -1,6 +1,5 @@
 #! env perl
-
-use 5.36.0;
+use 5.38.0;
 
 # Read from extract.txt, figure out what order TIFF files should be in, which
 # should be merged with which for complete issues in a single PDF.
