@@ -110,17 +110,19 @@ Image_20221212_0255-002.tiff|The Nebraska Observer|August 30, 1991|Vol.VI, #9, p
 Image_20221212_0253-002.tiff|The Nebraska Observer|August 30, 1991|Vol.VI, #9, p.15|Frances Mendenhall, Publisher
 Image_20221212_0252-001.tiff|The Nebraska Observer|August 30, 1991|Vol.VI, #9, p.16|Frances Mendenhall, Publisher
 
-Image_20221212_0138-002.tiff|The Nebraska Observer|August 31, 1990|Vol.V, #9, p.1|Frances Mendenhall, Publisher
-Image_20221212_0139-001.tiff|The Nebraska Observer|August 31, 1990|Vol.V, #9, p.2|Frances Mendenhall, Publisher
-Image_20221212_0141-001.tiff|The Nebraska Observer|August 31, 1990|Vol.V, #9, p.4|Frances Mendenhall, Publisher
 Image_20221212_0142-001.tiff|The Nebraska Observer|August 31, 1990|Vol.V, #8, p.4|Frances Mendenhall, Publisher
 Image_20221212_0142-002.tiff|The Nebraska Observer|August 31, 1990|Vol.V, #8, p.5|Frances Mendenhall, Publisher
 Image_20221212_0143-001.tiff|The Nebraska Observer|August 31, 1990|Vol.V, #8, p.6|Frances Mendenhall, Publisher
 Image_20221212_0143-002.tiff|The Nebraska Observer|August 31, 1990|Vol.V, #8, p.7|Frances Mendenhall, Publisher
 Image_20221212_0137-001.tiff|The Nebraska Observer|August 31, 1990|Vol.V, #8, p.8|Frances Mendenhall, Publisher
+
+Image_20221212_0138-002.tiff|The Nebraska Observer|August 31, 1990|Vol.V, #9, p.1|Frances Mendenhall, Publisher
+Image_20221212_0139-001.tiff|The Nebraska Observer|August 31, 1990|Vol.V, #9, p.2|Frances Mendenhall, Publisher
+Image_20221212_0141-001.tiff|The Nebraska Observer|August 31, 1990|Vol.V, #9, p.4|Frances Mendenhall, Publisher
 Image_20221212_0141-002.tiff|The Nebraska Observer|August 31, 1990|Vol.V, #9, p.9|
 Image_20221212_0139-002.tiff|The Nebraska Observer|August 31, 1990|Vol.V, #9, p.11|Frances Mendenhall, Publisher
 Image_20221212_0138-001.tiff|The Nebraska Observer|August 31, 1990|Vol.V, #9, p.12|Frances Mendenhall, Publisher
+Image_20221212_0134-002.tiff|||Vol.V, #8, p.5|Frances Mendenhall, Publisher
 
 Image_20221212_0162-002.tiff|The Nebraska Observer|December 6, 1990|Vol.V, #12, p.1|Frances Mendenhall, Publisher
 Image_20221212_0163-001.tiff|The Nebraska Observer|December 6, 1990|Vol.V, #12, p.2|Frances Mendenhall, Publisher
@@ -304,25 +306,28 @@ Image_20221212_0117-001.tiff|The Nebraska Observer|June 2, 1990|Vol. V, #6, p.4|
 Image_20221212_0118-002.tiff|The Nebraska Observer|June 2, 1990|Vol. V, #6, p.5|Frances Mendenhall, Publisher
 Image_20221212_0119-001.tiff|The Nebraska Observer|June 2, 1990|Vol. V, #6, p.6|Frances Mendenhall, Publisher
 Image_20221212_0120-002.tiff|The Nebraska Observer|June 2, 1990|Vol. V, #6, p.7|Frances Mendenhall, Publisher
+Image_20221212_0121-001.tiff||June 2, 1990|Vol. V, #6, p.8|Frances Mendenhall, Publisher
 Image_20221212_0121-002.tiff|The Nebraska Observer|June 2, 1990|Vol. V, #6, p.9|Frances Mendenhall, Publisher
 Image_20221212_0120-001.tiff|The Nebraska Observer|June 2, 1990|Vol. V, #6, p.10|Frances Mendenhall, Publisher
+Image_20221212_0119-002.tiff||June 2, 1990|Vol. V, #6, p.11|Frances Mendenhall, Publisher
 Image_20221212_0118-001.tiff|The Nebraska Observer|June 2, 1990|Vol. V, #6, p.12|Frances Mendenhall, Publisher
 Image_20221212_0117-002.tiff|The Nebraska Observer|June 2, 1990|Vol. V, #6, p.13|Frances Mendenhall, Publisher
 Image_20221212_0116-001.tiff|The Nebraska Observer|June 2, 1990|Vol. V, #6, p.14|Frances Mendenhall, Publisher
 Image_20221212_0115-002.tiff|The Nebraska Observer|June 2, 1990|Vol. V, #6, p.15|Frances Mendenhall, Publisher
 Image_20221212_0114-001.tiff|The Nebraska Observer|June 2, 1990|Vol. V, #6, p.16|Frances Mendenhall, Publisher
 
-Image_20221212_0047-002.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.11|Frances Mendenhall, Publisher
-Image_20221212_0048-001.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.11|Frances Mendenhall, Publisher
-Image_20221212_0046-001.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.12|Frances Mendenhall, Publisher
 Image_20221212_0046-002.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.1|Frances Mendenhall, Publisher
 Image_20221212_0047-001.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.2|Frances Mendenhall, Publisher
+Image_20221212_0048-002.tiff|||Vol. IV, #6, p.3;|Frances Mendenhall, Publisher
 Image_20221212_0049-001.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.4|Frances Mendenhall, Publisher
 Image_20221212_0050-002.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.5|Frances Mendenhall, Publisher
 Image_20221212_0051-001.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.6|Frances Mendenhall, Publisher
 Image_20221212_0051-002.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.7;|Frances Mendenhall, Publisher
 Image_20221212_0050-001.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.8|Frances Mendenhall, Publisher
 Image_20221212_0049-002.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.9|Frances Mendenhall, Publisher
+Image_20221212_0047-002.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.11|Frances Mendenhall, Publisher
+Image_20221212_0048-001.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.11|Frances Mendenhall, Publisher
+Image_20221212_0046-001.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.12|Frances Mendenhall, Publisher
 
 Image_20221212_0122-002.tiff|The Nebraska Observer|June 26, 1990|Vol. V, #7, p.1|Frances Mendenhall, Publisher
 Image_20221212_0123-001.tiff|The Nebraska Observer|June 28, 1990|Vol. V, #7, p.2|Frances Mendenhall, Publisher
@@ -370,6 +375,7 @@ Image_20221212_0035-002.tiff|The Nebraska Observer|March 29, 1989|Vol. IV, #3, p
 Image_20221212_0291-002.tiff|The Nebraska Observer|March 29, 1989|Vol. IV, #3, p.11|Frances Mendenhall, Publisher
 Image_20221212_0034-001.tiff|The Nebraska Observer|March 29, 1989|Vol. IV, #3, p.12|Frances Mendenhall, Publisher
 
+Image_20221212_0108-002.tiff||May 1, 1990|Vol. V, #5, p.1|Frances Mendenhall, Publisher
 Image_20221212_0109-001.tiff|The Nebraska Observer|May 2, 1990|Vol. V, #5, p.2|Frances Mendenhall, Publisher
 Image_20221212_0110-002.tiff|The Nebraska Observer|May 2, 1990|Vol. V, #5, p.3|Frances Mendenhall, Publisher
 Image_20221212_0111-001.tiff|The Nebraska Observer|May 2, 1990|Vol. V, #5, p.4|Frances Mendenhall, Publisher
@@ -380,6 +386,7 @@ Image_20221212_0112-001.tiff|The Nebraska Observer|May 2, 1990|Vol. V, #5, p.8|F
 Image_20221212_0111-002.tiff|The Nebraska Observer|May 2, 1990|Vol. V, #5, p.9|Frances Mendenhall, Publisher
 Image_20221212_0110-001.tiff|The Nebraska Observer|May 2, 1990|Vol. V, #5, p.10|Frances Mendenhall, Publisher
 Image_20221212_0109-002.tiff|The Nebraska Observer|May 2, 1990|Vol. V, #5, p.11|Frances Mendenhall, Publisher
+Image_20221212_0108-001.tiff||May 2, 1990|Vol. V, #5, p.12|Frances Mendenhall, Publisher
 
 Image_20221212_0218-002.tiff|The Nebraska Observer|May 2, 1991|Vol.VI, #5, p.1|Frances Mendenhall, Publisher
 Image_20221212_0219-001.tiff|The Nebraska Observer|May 2, 1991|Vol.VI, #5, p.2|Frances Mendenhall, Publisher
@@ -546,8 +553,8 @@ Image_20221212_0066-001.tiff|The Nebraska Observer|September 27, 1989|Vol. IV, #
 Image_20221212_0065-002.tiff|The Nebraska Observer|September 27, 1989|Vol. IV, #9, p.11|Frances Mendenhall, Publisher
 Image_20221212_0064-001.tiff|The Nebraska Observer|September 27, 1989|Vol. IV, #9, p.12|Frances Mendenhall, Publisher
 
-
 Image_20221212_0107-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|April 1, 1990|Insert (satire), p.1/2|Frances Mendenhall, Publisher
+Image_20221212_0107-002.tiff||April 1, 1990|Insert (satire), p.2/2|Frances Mendenhall, Publisher
 
 Image_20221212_0144-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|August 31, 1990|Back To School Edition|Frances Mendenhall, Publisher
 Image_20221212_0144-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|August 31, 1990|Vol V, #8, p.4|Frances Mendenhall, Publisher
@@ -673,14 +680,6 @@ Image_20221208_0009-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|
 Image_20221208_0008-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p. 7|Frances Mendenhall, Publisher
 Image_20221208_0007-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol II, No. 7, p. 8|Frances Mendenhall, Publisher
 
-Image_20221212_0107-002.tiff||April 1, 1990|Insert (satire), p.2/2|Frances Mendenhall, Publisher
-Image_20221212_0119-002.tiff||June 2, 1990|Vol. V, #6, p.11|Frances Mendenhall, Publisher
-Image_20221212_0121-001.tiff||June 2, 1990|Vol. V, #6, p.8|Frances Mendenhall, Publisher
-Image_20221212_0108-002.tiff||May 1, 1990|Vol. V, #5, p.1|Frances Mendenhall, Publisher
-Image_20221212_0108-001.tiff||May 2, 1990|Vol. V, #5, p.12|Frances Mendenhall, Publisher
-Image_20221212_0048-002.tiff|||Vol. IV, #6, p.3;|Frances Mendenhall, Publisher
-Image_20221212_0133-002.tiff|||Vol.V, #8, p.13|Frances Mendenhall, Publisher
-Image_20221212_0134-002.tiff|||Vol.V, #8, p.5|Frances Mendenhall, Publisher
 Image_20221212_0140-001.tiff|||Vol.V, #9, p.10|Frances Mendenhall, Publisher
 Image_20221212_0140-002.tiff|||Vol.V, #9, p.3|Frances Mendenhall, Publisher
 Image_20221212_0213-001.tiff|||Vol.VI, #4, p.15|Frances Mendenhall, Publisher
