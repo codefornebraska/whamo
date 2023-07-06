@@ -11,4 +11,4 @@ Foreach-Object {
   $dir.GetDetailsOf($file, 24) # Comments
   $dir.GetDetailsOf($file, 20) # Authors
   "---"
-}
+} | Out-File -FilePath .\extract.txt
