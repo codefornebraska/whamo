@@ -1,8 +1,8 @@
 # ./sort.pl | sort -t\| +1 +2 +3 > sorted.txt
 # then manual corrections, and blank lines added manually where PDFs should split
 
-Image_20221212_0005-002.tiff|Right to Vote Rally Flier|March, 1988|insert: left side)|
 Image_20221212_0005-001.tiff|Right to Vote Rally Leaflet|March, 1988|(insert: left side)|
+Image_20221212_0005-002.tiff|Right to Vote Rally Leaflet|March, 1988|(insert: right side)|
 
 Image_20221212_0022-002.tiff|The Nebraska Observer|February 1, 1989|Vol. IV, #1, p. 1|Frances Mendenhall, Publisher
 Image_20221212_0022-001.tiff|The Nebraska Observer|February 1, 1989|Vol. IV, #1, p. 12|Frances Mendenhall, Publisher
