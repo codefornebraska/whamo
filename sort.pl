@@ -1,8 +1,10 @@
 #! env perl
 use 5.38.0;
 
-# Read from extract.txt, figure out what order TIFF files should be in, which
-# should be merged with which for complete issues in a single PDF.
+# uhh... orginally this was going to sort and PDF and OCR, but I ended up with a big manual 
+# sort phase to clean up a bunch of typos etc., so what's left in this sort phase is trivial:
+#
+# ./sort.pl | sort -t\| +1 +2 +3 > sorted.txt
 
 open my $in, "<", "extract.txt";
 while (<$in>) {
