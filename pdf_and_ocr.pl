@@ -11,6 +11,9 @@ STDOUT->autoflush(); # So Data::Printer output is inline with our other debuggin
 # * convert that TIFF to PDF
 # * OCR that PDF
 
+my $in_dir = "/Users/jhannah/Dropbox/1989-1991-WHAMO";
+my $out_dir = "$in_dir/experiments";
+
 my $dft = DateTime::Format::Text->new();
 
 open my $in, "<", "sorted.txt";
@@ -46,13 +49,28 @@ while (<$in>) {
   }
   ($tiff, $name, $subject, $comments, $authors) = split m/\|/;
   # say "  Adding $tiff to \$this_issue";
-  push @$this_issue, $tiff;
+  push @$this_issue, "$in_dir/$tiff";
   # say $tiff;
 }
 
-foreach my $i (keys %issues) {
+foreach my $i (sort keys %issues) {
   my @tiffs = @{$issues{$i}};
-  printf("%s: %s\n", $i, ("." x scalar(@tiffs)));
+  printf("%s %s\n", $i, ("." x scalar(@tiffs)));
+
+  # tiffcp ../Image_20221212_0098-002.tiff ../Image_20221212_0099-001.tiff ../Image_20221212_0099-002.tiff ../Image_20221212_0098-001.tiff output.tiff
+  my $cmd = "tiffcp " . (join " ", @tiffs) . " $out_dir/$i.tiff";
+  say "  $cmd";
+  system($cmd);
+
+  # tiff2pdf output.tiff > output.pdf
+  $cmd = "tiff2pdf $out_dir/$i.tiff > $out_dir/$i.pdf";
+  say "  $cmd";
+  system($cmd);
+
+  # ocrmypdf output.pdf output_ocr.pdf
+  $cmd = "ocrmypdf $out_dir/$i.pdf $out_dir/${i}_ocr.pdf";
+  say "  $cmd";
+  system($cmd);
 }
 
 sub convert_date {
