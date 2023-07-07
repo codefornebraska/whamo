@@ -1,7 +1,7 @@
 #! env perl
 use 5.38.0;
 use Data::Printer;
-use DateTime::Format::DateParse;
+use DateTime::Format::Text;
 use FileHandle; 
 STDOUT->autoflush(); # So Data::Printer output is inline with our other debugging
 # ./pdf_and_ocr.pl 2>&1 | head -60
@@ -10,6 +10,8 @@ STDOUT->autoflush(); # So Data::Printer output is inline with our other debuggin
 # * squash clustered TIFFs together
 # * convert that TIFF to PDF
 # * OCR that PDF
+
+my $dft = DateTime::Format::Text->new();
 
 open my $in, "<", "sorted.txt";
 my %issues;
@@ -23,13 +25,17 @@ while (<$in>) {
     # We've hit a blank line, which means a split between issues
     if (@$this_issue) {
       my $date = convert_date($subject);
-      say "date is $date";
+      next unless $date;  # uhh... end of file?
       my $out_filename;
       if ($name =~ /WHAMO/) {
         $out_filename = "WHAMO-$date";
       } elsif ($name =~ /Observer/) {
         $out_filename = "NebraskaObserver-$date";
+      } elsif ($name eq "") {
+        # What is this? Skip it
+        next;
       } else {
+        $name =~ s/ /-/g;
         $out_filename = "$name-$date";
       }
       # p $this_issue, as => "Issue complete! adding!";
@@ -45,14 +51,22 @@ while (<$in>) {
 }
 
 foreach my $i (keys %issues) {
-  printf("%s: %s\n\n", $i, (join " + ", @{$issues{$i}}));
+  my @tiffs = @{$issues{$i}};
+  printf("%s: %s\n", $i, ("." x scalar(@tiffs)));
 }
 
 sub convert_date {
-  my ($in) = @_;
-  my $dt = DateTime::Format::DateParse->parse_datetime($in);
+  my $in = shift;
+  return undef unless $in;
+  if ($in =~ /^\w+, \d+/) {
+    # e.g. "March, 1988". We'll pretend it was the 1st of the month
+    $in =~ s/^(\w+), (\d+)/$1 1, $2/;
+  }
+  # say "sending $in";
+  my $dt = $dft->parse($in);
   return $dt->ymd;
 }
+
 
 __END__
 Image_20221212_0098-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February 28, 1990|Vol. VI, #3, p.1|Frances Mendenhall, Publisher
