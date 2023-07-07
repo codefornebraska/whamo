@@ -1,6 +1,7 @@
 #! env perl
 use 5.38.0;
 use Data::Printer;
+use DateTime::Format::DateParse;
 use FileHandle; 
 STDOUT->autoflush(); # So Data::Printer output is inline with our other debugging
 # ./pdf_and_ocr.pl 2>&1 | head -60
@@ -17,11 +18,12 @@ my ($tiff, $name, $subject, $comments, $authors);
 while (<$in>) {
   chomp;
   # say;
-  next if (/^#/); # Ignore comments
+  next if (/^#/);  # Ignore comments
   unless (/\w/) {
     # We've hit a blank line, which means a split between issues
     if (@$this_issue) {
       my $date = convert_date($subject);
+      say "date is $date";
       my $out_filename;
       if ($name =~ /WHAMO/) {
         $out_filename = "WHAMO-$date";
@@ -48,18 +50,8 @@ foreach my $i (keys %issues) {
 
 sub convert_date {
   my ($in) = @_;
-  my $rval;
-  if ($in =~ /^\w+ \d+,/) {
-    # e.g. "February 1, 1989"
-    my ($m, $d, $y) = split /\W+/, $subject;
-    $rval = "$y-$m-$d";
-  } else {
-    # e.g. "March, 1988"
-    my ($m, $y) = split /, /, $subject;
-    $rval = "$y-$m";
-  }
-  say "Date is $rval";
-  return $rval;
+  my $dt = DateTime::Format::DateParse->parse_datetime($in);
+  return $dt->ymd;
 }
 
 __END__
