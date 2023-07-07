@@ -41,6 +41,9 @@ while (<$in>) {
         $name =~ s/ /-/g;
         $out_filename = "$name-$date";
       }
+      # Only run a specific file:
+      # next unless ($name =~ /Right-to-Vote/);
+
       # p $this_issue, as => "Issue complete! adding!";
       $issues{$out_filename} = $this_issue;
     }
