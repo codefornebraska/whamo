@@ -63,12 +63,12 @@ foreach my $i (sort keys %issues) {
   system($cmd);
 
   # tiff2pdf output.tiff > output.pdf
-  $cmd = "tiff2pdf $out_dir/$i.tiff > $out_dir/$i.pdf";
+  $cmd = "tiff2pdf $out_dir/$i.tiff > $out_dir/${i}_no_ocr.pdf";
   say "  $cmd";
   system($cmd);
 
   # ocrmypdf output.pdf output_ocr.pdf
-  $cmd = "ocrmypdf $out_dir/$i.pdf $out_dir/${i}_ocr.pdf";
+  $cmd = "ocrmypdf $out_dir/${i}_no_ocr.pdf $out_dir/$i.pdf";
   say "  $cmd";
   system($cmd);
 }
