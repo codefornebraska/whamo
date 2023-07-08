@@ -43,9 +43,10 @@ while (<$in>) {
       }
       # Only run on specific files:
       if (
-        $out_filename eq "NebraskaObserver-1989-03-29" ||
-        $out_filename eq "NebraskaObserver-1989-05-24"
+#        $out_filename eq "NebraskaObserver-1989-03-29" ||
+#        $out_filename eq "NebraskaObserver-1989-05-24"
 #        $out_filename eq "NebraskaObserver-1992-01-03"
+        $out_filename eq "WHAMO-1988-06-01"
       ) {
         # p $this_issue, as => "Issue complete! adding!";
         $issues{$out_filename} = $this_issue;
