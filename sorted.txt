@@ -1,6 +1,7 @@
 # ./sort.pl | sort -t\| +1 +2 +3 > sorted.txt
 # Then tons of manual corrections below. Blank lines added manually where PDFs should split.
 
+# Jay QA: looks good
 Image_20221208_0007-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol.II, No. 7, p.1|Frances Mendenhall, Publisher
 Image_20221208_0008-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p.2|Frances Mendenhall, Publisher
 Image_20221208_0009-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p. 3|Frances Mendenhall, Publisher
@@ -10,6 +11,7 @@ Image_20221208_0009-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|
 Image_20221208_0008-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p. 7|Frances Mendenhall, Publisher
 Image_20221208_0007-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol II, No. 7, p. 8|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221208_0011-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #8, p. 1|Frances Mendenhall, Publisher
 Image_20221208_0012-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #8, p. 2|Frances Mendenhall, Publisher
 Image_20221208_0013-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #8, p. 3|Frances Mendenhall, Publisher
@@ -19,6 +21,7 @@ Image_20221208_0013-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|
 Image_20221208_0012-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #8, p. 7|Frances Mendenhall, Publisher
 Image_20221208_0011-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|October, 1987|Vol. II, #8, p. 8|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221208_0015-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|November, 1987|Vol. II, #9, p. 1|Frances Mendenhall, Publisher
 Image_20221208_0016-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|November, 1987|Vol. II, #9, p. 2|Frances Mendenhall, Publisher
 Image_20221208_0017-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|November, 1987|Vol. II, #9, p. 3|Frances Mendenhall, Publisher
@@ -28,6 +31,7 @@ Image_20221208_0017-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|
 Image_20221208_0016-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|November, 1987|Vol. II, #9, p. 7|Frances Mendenhall, Publisher
 Image_20221208_0015-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|November, 1987|Vol. II, #9, p. 8|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221208_0019-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|December, 1987|Vol. II, #10, p. 1|Frances Mendenhall, Publisher
 Image_20221208_0020-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|December, 1987|Vol. II, #10, p. 2|Frances Mendenhall, Publisher
 Image_20221208_0021-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|December, 1987|Vol. II, #10, p. 3|Frances Mendenhall, Publisher
@@ -37,6 +41,7 @@ Image_20221208_0021-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|
 Image_20221208_0020-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|December, 1987|Vol. II, #10, p. 7|Frances Mendenhall, Publisher
 Image_20221208_0019-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|December, 1987|Vol. II, #10, p. 8|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221208_0023-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|January, 1988|Vol. III, #1, p. 1|Frances Mendenhall, Publisher
 Image_20221208_0024-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|January, 1988|Vol. III, #1, p. 2;|Frances Mendenhall, Publisher
 Image_20221208_0025-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|January, 1988|Vol. III, #1, p. 3|Frances Mendenhall, Publisher
@@ -46,6 +51,7 @@ Image_20221208_0025-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|
 Image_20221208_0024-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|January, 1988|Vol. III, #1, p. 7|Frances Mendenhall, Publisher
 Image_20221208_0023-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|January, 1988|Vol. III, #1, p. 8|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221208_0027-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February, 1988|Vol. III, #2, p. 1|Frances Mendenhall, Publisher
 Image_20221208_0028-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February, 1988|Vol. III, #2, p. 2|Frances Mendenhall, Publisher
 Image_20221208_0029-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February, 1988|Vol. III, #2, p. 3|Frances Mendenhall, Publisher
@@ -55,6 +61,7 @@ Image_20221208_0029-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|
 Image_20221208_0028-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February, 1988|Vol. III, #2, p. 7|Frances Mendenhall, Publisher
 Image_20221208_0027-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February, 1988|Vol. III, #2, p. 8|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221212_0001-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March, 1988|Vol. III, #3, p. 1|Frances Mendenhall, Publisher
 Image_20221212_0002-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March, 1988|Vol. III, #3, p. 2|Frances Mendenhall, Publisher
 Image_20221212_0003-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March, 1988|Vol. III, #3, p. 3|Frances Mendenhall, Publisher
@@ -64,6 +71,7 @@ Image_20221212_0003-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|
 Image_20221212_0002-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March, 1988|Vol. III, #3, p. 7|Frances Mendenhall, Publisher
 Image_20221212_0001-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March, 1988|Vol. III, #3, p. 8|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221212_0006-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|June, 1988|Vol. III, #4, p. 1|Frances Mendenhall, Publisher
 Image_20221212_0007-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|June, 1988|Vol. III, #4, p. 2|Frances Mendenhall, Publisher
 Image_20221212_0008-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|June, 1988|Vol. III, #4, p. 3|Frances Mendenhall, Publisher
@@ -77,6 +85,7 @@ Image_20221212_0008-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|
 Image_20221212_0007-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|June, 1988|Vol. III, #4, p. 7|Frances Mendenhall, Publisher
 Image_20221212_0006-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|June, 1988|Vol. III, #4, p. 8|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221212_0012-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|August, 1988|Vol. III, #6, p. 1|Frances Mendenhall, Publisher
 Image_20221212_0013-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|August, 1988|Vol. III, #6, p. 2|Frances Mendenhall, Publisher
 Image_20221212_0014-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|August, 1988|Vol. III, #6, p. 3|Frances Mendenhall, Publisher
@@ -86,7 +95,7 @@ Image_20221212_0014-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|
 Image_20221212_0013-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|August, 1988|Vol. III, #6, p. 7|Frances Mendenhall, Publisher
 Image_20221212_0012-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|August, 1988|Vol. III, #6, p. 8|Frances Mendenhall, Publisher
 
-# Jay: Page numbers are on the bottom, but first page has no number, and we're missing a page?
+# Jay QA: Page numbers are on the bottom, but first page has no number, and we're missing a page?
 Image_20221212_0023-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February 1, 1989|Vol. IV, #1, p. 2|Frances Mendenhall, Publisher
 Image_20221212_0024-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February 1, 1989|Vol. IV, #1, p.3|Frances Mendenhall, Publisher
 Image_20221212_0025-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February 1, 1989|Vol. IV, #1, p.4|Frances Mendenhall, Publisher
@@ -97,10 +106,11 @@ Image_20221212_0026-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|
 Image_20221212_0025-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February 1, 1989|Vol. IV, #1, p.9|Frances Mendenhall, Publisher
 Image_20221212_0024-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February 1, 1989|Vol. IV, #1, p.10|Frances Mendenhall, Publisher
 Image_20221212_0023-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February 1, 1989|Vol. IV, #1, p.11|Frances Mendenhall, Publisher
-# Jay's QA stopped here (a couple random ones below are also verified good now)
 
+# Jay QA: looks good
 Image_20221212_0028-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.1|Frances Mendenhall, Publisher
 Image_20221212_0029-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.2|Frances Mendenhall, Publisher
+Image_20221212_0030-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.3|Frances Mendenhall, Publisher
 Image_20221212_0031-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.4|Frances Mendenhall, Publisher
 Image_20221212_0032-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.5|Frances Mendenhall, Publisher
 Image_20221212_0033-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.6|Frances Mendenhall, Publisher
@@ -108,24 +118,27 @@ Image_20221212_0033-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|
 Image_20221212_0032-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.8|Frances Mendenhall, Publisher
 Image_20221212_0031-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.9|Frances Mendenhall, Publisher
 Image_20221212_0030-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.10|Frances Mendenhall, Publisher
-Image_20221212_0030-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.10|Frances Mendenhall, Publisher
 Image_20221212_0029-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.11|Frances Mendenhall, Publisher
 Image_20221212_0028-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 8, 1989|Vol. IV, #2, p.12|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221212_0044-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|May 24, 1989|Vol. IV, #5, p.1|Frances Mendenhall, Publisher
 Image_20221212_0045-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|May 24, 1989|Vol. IV, #5, p.2|Frances Mendenhall, Publisher
 Image_20221212_0045-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|May 24, 1989|Vol. IV, #5, p.3|Frances Mendenhall, Publisher
 Image_20221212_0044-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|May 24, 1989|Vol. IV, #5, p.4|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221212_0098-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February 28, 1990|Vol. VI, #3, p.1|Frances Mendenhall, Publisher
 Image_20221212_0099-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February 28, 1990|Vol. VI, #3, p.2|Frances Mendenhall, Publisher
 Image_20221212_0099-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February 28, 1990|Vol. VI, #3, p.3|Frances Mendenhall, Publisher
 Image_20221212_0098-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|February 28, 1990|Vol. VI, #3, p.4|Frances Mendenhall, Publisher
 
+# Jay QA: where's the rest of this issue?
 Image_20221212_0106-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|March 28, 1990|Vol. V, #4, p.4|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221212_0107-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|April 1, 1990|Insert (satire), p.1/2|Frances Mendenhall, Publisher
-Image_20221212_0107-002.tiff||April 1, 1990|Insert (satire), p.2/2|Frances Mendenhall, Publisher
+Image_20221212_0107-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|April 1, 1990|Insert (satire), p.2/2|Frances Mendenhall, Publisher
 
 Image_20221212_0144-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|August 31, 1990|Back To School Edition|Frances Mendenhall, Publisher
 Image_20221212_0144-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|August 31, 1990|Vol V, #8, p.4|Frances Mendenhall, Publisher
@@ -143,6 +156,7 @@ Image_20221212_0036-002.tiff|The Nebraska Observer|March 29, 1989|Vol. IV, #3, p
 Image_20221212_0037-001.tiff|The Nebraska Observer|March 29, 1989|Vol. IV, #3, p.4|Frances Mendenhall, Publisher
 Image_20221212_0038-002.tiff|The Nebraska Observer|March 29, 1989|Vol. IV, #3, p.5|Frances Mendenhall, Publisher
 Image_20221212_0039-001.tiff|The Nebraska Observer|March 29, 1989|Vol. IV, #3, p.6|Frances Mendenhall, Publisher
+# dupe Image_20221212_0021-001.tiff|The Nebraska Observer|March 29, 1989|Vol. IV, #3, p.7|Frances Mendenhall, Publisher
 Image_20221212_0039-002.tiff|The Nebraska Observer|March 29, 1989|Vol. IV, #3, p.7|Frances Mendenhall, Publisher
 Image_20221212_0038-001.tiff|The Nebraska Observer|March 29, 1989|Vol. IV, #3, p.8|Frances Mendenhall, Publisher
 Image_20221212_0037-002.tiff|The Nebraska Observer|March 29, 1989|Vol. IV, #3, p.9|Frances Mendenhall, Publisher
@@ -150,15 +164,15 @@ Image_20221212_0036-001.tiff|The Nebraska Observer|March 29, 1989|Vol. IV, #3, p
 Image_20221212_0035-002.tiff|The Nebraska Observer|March 29, 1989|Vol. IV, #3, p.11|Frances Mendenhall, Publisher
 Image_20221212_0034-001.tiff|The Nebraska Observer|March 29, 1989|Vol. IV, #3, p.12|Frances Mendenhall, Publisher
 
+# Jay QA: page 6 is missing
 Image_20221212_0016-002.tiff|The Nebraska Observer|April 26, 1989|Vol. IV, #4, p. 1|Frances Mendenhall, Publisher
 Image_20221212_0017-001.tiff|The Nebraska Observer|April 26, 1989|Vol. IV, #4, p. 2|Frances Mendenhall, Publisher
 Image_20221212_0018-002.tiff|The Nebraska Observer|April 26, 1989|Vol. IV, #4, p. 3|Frances Mendenhall, Publisher
 Image_20221212_0019-001.tiff|The Nebraska Observer|April 26, 1989|Vol. IV, #4, p. 4|Frances Mendenhall, Publisher
-Image_20221212_0019-002.tiff|The Nebraska Observer|April 26, 1989|Vol. IV, #4, p. 4|Frances Mendenhall, Publisher
 Image_20221212_0020-002.tiff|The Nebraska Observer|April 26, 1989|Vol. IV, #4, p. 5|Frances Mendenhall, Publisher
-Image_20221212_0021-001.tiff|The Nebraska Observer|April 26, 1989|Vol. IV, #4, p. 6|Frances Mendenhall, Publisher
 Image_20221212_0021-002.tiff|The Nebraska Observer|April 26, 1989|Vol. IV, #4, p. 7|Frances Mendenhall, Publisher
 Image_20221212_0020-001.tiff|The Nebraska Observer|April 26, 1989|Vol. IV, #4, p. 8|Frances Mendenhall, Publisher
+Image_20221212_0019-002.tiff|The Nebraska Observer|April 26, 1989|Vol. IV, #4, p. 9|Frances Mendenhall, Publisher
 Image_20221212_0018-001.tiff|The Nebraska Observer|April 26, 1989|Vol. IV, #4, p. 10|Frances Mendenhall, Publisher
 Image_20221212_0017-002.tiff|The Nebraska Observer|April 26, 1989|Vol. IV, #4, p. 11|Frances Mendenhall, Publisher
 Image_20221212_0016-001.tiff|The Nebraska Observer|April 26, 1989|Vol. IV, #4, p. 12|Frances Mendenhall, Publisher
@@ -173,17 +187,18 @@ Image_20221212_0042-001.tiff|The Nebraska Observer|May 24, 1989|Vol. IV, #5, p.6
 Image_20221212_0041-002.tiff|The Nebraska Observer|May 24, 1989|Vol. IV, #5, p.7|Frances Mendenhall, Publisher
 Image_20221212_0040-001.tiff|The Nebraska Observer|May 24, 1989|Vol. IV, #5, p.8|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221212_0046-002.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.1|Frances Mendenhall, Publisher
 Image_20221212_0047-001.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.2|Frances Mendenhall, Publisher
-Image_20221212_0048-002.tiff|||Vol. IV, #6, p.3;|Frances Mendenhall, Publisher
+Image_20221212_0048-002.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.3|Frances Mendenhall, Publisher
 Image_20221212_0049-001.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.4|Frances Mendenhall, Publisher
 Image_20221212_0050-002.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.5|Frances Mendenhall, Publisher
 Image_20221212_0051-001.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.6|Frances Mendenhall, Publisher
-Image_20221212_0051-002.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.7;|Frances Mendenhall, Publisher
+Image_20221212_0051-002.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.7|Frances Mendenhall, Publisher
 Image_20221212_0050-001.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.8|Frances Mendenhall, Publisher
 Image_20221212_0049-002.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.9|Frances Mendenhall, Publisher
+Image_20221212_0048-001.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.10|Frances Mendenhall, Publisher
 Image_20221212_0047-002.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.11|Frances Mendenhall, Publisher
-Image_20221212_0048-001.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.11|Frances Mendenhall, Publisher
 Image_20221212_0046-001.tiff|The Nebraska Observer|June 28, 1989|Vol. IV, #6, p.12|Frances Mendenhall, Publisher
 
 # Jay QA: looks good
@@ -214,6 +229,7 @@ Image_20221212_0060-001.tiff|The Nebraska Observer|August 30, 1989|Vol. IV, #8, 
 Image_20221212_0059-002.tiff|The Nebraska Observer|August 30, 1989|Vol. IV, #8, p.11|Frances Mendenhall, Publisher
 Image_20221212_0058-001.tiff|The Nebraska Observer|August 30, 1989|Vol. IV, #8, p.12|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221212_0064-002.tiff|The Nebraska Observer|September 27, 1989|Vol. IV, #9, p.1|Frances Mendenhall, Publisher
 Image_20221212_0065-001.tiff|The Nebraska Observer|September 27, 1989|Vol. IV, #9, p.2|Frances Mendenhall, Publisher
 Image_20221212_0066-002.tiff|The Nebraska Observer|September 27, 1989|Vol. IV, #9, p.3|Frances Mendenhall, Publisher
@@ -227,6 +243,7 @@ Image_20221212_0066-001.tiff|The Nebraska Observer|September 27, 1989|Vol. IV, #
 Image_20221212_0065-002.tiff|The Nebraska Observer|September 27, 1989|Vol. IV, #9, p.11|Frances Mendenhall, Publisher
 Image_20221212_0064-001.tiff|The Nebraska Observer|September 27, 1989|Vol. IV, #9, p.12|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221212_0070-002.tiff|The Nebraska Observer|October 25, 1989|Vol. IV, #10, p.1|Frances Mendenhall, Publisher
 Image_20221212_0071-001.tiff|The Nebraska Observer|October 25, 1989|Vol. IV, #10, p.2|Frances Mendenhall, Publisher
 Image_20221212_0072-002.tiff|The Nebraska Observer|October 25, 1989|Vol. IV, #10, p.3|Frances Mendenhall, Publisher
@@ -240,6 +257,7 @@ Image_20221212_0072-001.tiff|The Nebraska Observer|October 25, 1989|Vol. IV, #10
 Image_20221212_0071-002.tiff|The Nebraska Observer|October 25, 1989|Vol. IV, #10, p.11|Frances Mendenhall, Publisher
 Image_20221212_0070-001.tiff|The Nebraska Observer|October 25, 1989|Vol. IV, #10, p.12|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221212_0076-002.tiff|The Nebraska Observer|November 29, 1989|Vol. IV, #11, p.1|Frances Mendenhall, Publisher
 Image_20221212_0077-001.tiff|The Nebraska Observer|November 29, 1989|Vol. IV, #11, p.2|Frances Mendenhall, Publisher
 Image_20221212_0078-002.tiff|The Nebraska Observer|November 29, 1989|Vol. IV, #11, p.3|Frances Mendenhall, Publisher
