@@ -46,7 +46,7 @@ while (<$in>) {
 #        $out_filename eq "WHAMO-1989-02-01"
 #        $out_filename eq "NebraskaObserver-1990-08-02" ||
 #        $out_filename eq "NebraskaObserver-1990-05-02"
-        $out_filename eq "NebraskaObserver-1990-03-28"
+        $out_filename eq "NebraskaObserver-1990-01-03"
       ) {
         # p $this_issue, as => "Issue complete! adding!";
         $issues{$out_filename} = $this_issue;

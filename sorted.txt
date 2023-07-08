@@ -240,9 +240,9 @@ Image_20221212_0072-001.tiff|The Nebraska Observer|October 25, 1989|Vol. IV, #10
 Image_20221212_0071-002.tiff|The Nebraska Observer|October 25, 1989|Vol. IV, #10, p.11|Frances Mendenhall, Publisher
 Image_20221212_0070-001.tiff|The Nebraska Observer|October 25, 1989|Vol. IV, #10, p.12|Frances Mendenhall, Publisher
 
-Image_20221212_0076-002.tiff|Frances Mendenhall, Publisher|November 29, 1989|Vol. IV, #11, p.1|Frances Mendenhall, Publisher
+Image_20221212_0076-002.tiff|The Nebraska Observer|November 29, 1989|Vol. IV, #11, p.1|Frances Mendenhall, Publisher
 Image_20221212_0077-001.tiff|The Nebraska Observer|November 29, 1989|Vol. IV, #11, p.2|Frances Mendenhall, Publisher
-Image_20221212_0078-002.tiff|The Nebraska Observer|November 29, 1989|Vol. IV, #11, p.3|Vol. IV, #11, p.3
+Image_20221212_0078-002.tiff|The Nebraska Observer|November 29, 1989|Vol. IV, #11, p.3|Frances Mendenhall, Publisher
 Image_20221212_0079-001.tiff|The Nebraska Observer|November 29, 1989|Vol. IV, #11, p.4|Frances Mendenhall, Publisher
 Image_20221212_0080-002.tiff|The Nebraska Observer|November 29, 1989|Vol. IV, #11, p.5|Frances Mendenhall, Publisher
 Image_20221212_0081-001.tiff|The Nebraska Observer|November 29, 1989|Vol. IV, #11, p.6|Frances Mendenhall, Publisher
@@ -253,7 +253,7 @@ Image_20221212_0078-001.tiff|The Nebraska Observer|November 29, 1989|Vol. IV, #1
 Image_20221212_0077-002.tiff|The Nebraska Observer|November 29, 1989|Vol. IV, #11, p.11|Frances Mendenhall, Publisher
 Image_20221212_0076-001.tiff|The Nebraska Observer|November 29, 1989|Vol. IV, #11, p.12|Frances Mendenhall, Publisher
 
-Image_20221212_0082-001.tiff|The Nebraska Observer|January 3, 1990|Vol. V, #1, p.1|Frances Mendenhall, Publisher
+# Jay QA: looks good
 Image_20221212_0082-002.tiff|The Nebraska Observer|January 3, 1990|Vol. V, #1, p.1|Frances Mendenhall, Publisher
 Image_20221212_0083-001.tiff|The Nebraska Observer|January 3, 1990|Vol. V, #1, p.2|Frances Mendenhall, Publisher
 Image_20221212_0084-002.tiff|The Nebraska Observer|January 3, 1990|Vol. V, #1, p.3|Frances Mendenhall, Publisher
@@ -265,7 +265,9 @@ Image_20221212_0086-001.tiff|The Nebraska Observer|January 3, 1990|Vol. V, #1, p
 Image_20221212_0085-002.tiff|The Nebraska Observer|January 3, 1990|Vol. V, #1, p.9|Frances Mendenhall, Publisher
 Image_20221212_0084-001.tiff|The Nebraska Observer|January 3, 1990|Vol. V, #1, p.10|Frances Mendenhall, Publisher
 Image_20221212_0083-002.tiff|The Nebraska Observer|January 3, 1990|Vol. V, #1, p.11|Frances Mendenhall, Publisher
+Image_20221212_0082-001.tiff|The Nebraska Observer|January 3, 1990|Vol. V, #1, p.12|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221212_0088-002.tiff|The Nebraska Observer|January 31, 1990|Vol. V, #2, p.1|Frances Mendenhall, Publisher
 Image_20221212_0089-001.tiff|The Nebraska Observer|January 31, 1990|Vol. V, #2, p.2|Frances Mendenhall, Publisher
 Image_20221212_0090-002.tiff|The Nebraska Observer|January 31, 1990|Vol. V, #2, p.3|Frances Mendenhall, Publisher
@@ -279,6 +281,7 @@ Image_20221212_0090-001.tiff|The Nebraska Observer|January 31, 1990|Vol. V, #2, 
 Image_20221212_0089-002.tiff|The Nebraska Observer|January 31, 1990|Vol. V, #2, p.11|Frances Mendenhall, Publisher
 Image_20221212_0088-001.tiff|The Nebraska Observer|January 31, 1990|Vol. V, #2, p.12|Frances Mendenhall, Publisher
 
+# Jay QA: looks good
 Image_20221212_0094-002.tiff|The Nebraska Observer|February 28, 1990|Vol. V, #3, p.1|Frances Mendenhall, Publisher
 Image_20221212_0095-001.tiff|The Nebraska Observer|February 28, 1990|February 28, 1990|Frances Mendenhall, Publisher
 Image_20221212_0096-002.tiff|The Nebraska Observer|February 28, 1990|Vol. V, #3, p.3|Frances Mendenhall, Publisher
