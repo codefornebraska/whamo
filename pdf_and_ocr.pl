@@ -41,11 +41,15 @@ while (<$in>) {
         $name =~ s/ /-/g;
         $out_filename = "$name-$date";
       }
-      # Only run a specific file:
-      # next unless ($name =~ /Right-to-Vote/);
-
-      # p $this_issue, as => "Issue complete! adding!";
-      $issues{$out_filename} = $this_issue;
+      # Only run on specific files:
+      if (
+        $out_filename eq "NebraskaObserver-1989-03-29" ||
+        $out_filename eq "NebraskaObserver-1989-05-24"
+#        $out_filename eq "NebraskaObserver-1992-01-03"
+      ) {
+        # p $this_issue, as => "Issue complete! adding!";
+        $issues{$out_filename} = $this_issue;
+      }
     }
     $this_issue = [];
     next;
@@ -74,6 +78,8 @@ foreach my $i (sort keys %issues) {
   $cmd = "ocrmypdf $out_dir/${i}_no_ocr.pdf $out_dir/$i.pdf";
   say "  $cmd";
   system($cmd);
+
+  print "\n";
 }
 
 sub convert_date {
