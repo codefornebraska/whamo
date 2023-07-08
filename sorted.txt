@@ -1,5 +1,5 @@
 # ./sort.pl | sort -t\| +1 +2 +3 > sorted.txt
-# then manual corrections, and blank lines added manually where PDFs should split
+# Then tons of manual corrections below. Blank lines added manually where PDFs should split.
 
 Image_20221208_0007-002.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol.II, No. 7, p.1|Frances Mendenhall, Publisher
 Image_20221208_0008-001.tiff|World-Herald Attitude Monitoring Operation (WHAMO)|September, 1987|Vol. II, #7, p.2|Frances Mendenhall, Publisher
