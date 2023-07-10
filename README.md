@@ -8,13 +8,13 @@ In 1989 the newpaper rebranded to "Nebraska Observer."
 
 ## Collating TIFs and OCRing them
 
-1. Used `extract.ps1` (Windows PowerShell) to extract Windows file metadata out of the original TIF files.
+1. Used [extract.ps1](extract.ps1) (Windows PowerShell) to extract Windows file metadata out of the original TIF files.
 
-2. Used `sort.pl` to rough out a list of which TIFs should be which PDFs.
+2. Used [sort.pl](sort.pl) to rough out a list of which TIFs should be which PDFs.
 
-3. Tons of manual fixing of errors in `sorted.txt`.
+3. Tons of manual fixing of errors in [sorted.txt](sorted.txt).
 
-4. `pdf_and_ocr.pl` merges multiple TIFs into a single TIF, converts that TIF to PDF, and then OCRs that PDF.
+4. [pdf_and_ocr.pl](pdf_and_ocr.pl) merges multiple TIFs into a single TIF, converts that TIF to PDF, and then OCRs that PDF.
 
 ## Uploading to archive.org
 
