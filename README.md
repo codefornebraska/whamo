@@ -1,9 +1,10 @@
-# whamo
+# WHAMO
+
 Digitizing an independent newspaper 1989-1991.
 
 WHAMO: World Herald Attitude Monitoring Operation (the period when the Franklin Credit Union Scandal erupted)
 
-In 1989 the newpaper rebranded to Nebraska Observer.
+In 1989 the newpaper rebranded to "Nebraska Observer."
 
 ## Collating TIFs and OCRing them
 
@@ -16,6 +17,9 @@ In 1989 the newpaper rebranded to Nebraska Observer.
 4. `pdf_and_ocr.pl` merges multiple TIFs into a single TIF, converts that TIF to PDF, and then OCRs that PDF.
 
 ## Uploading to archive.org
+
+[Browse](https://archive.org/search?query=creator%3A%22Frances+Mendenhall%22) the archive.
+Upload [documentation](https://archive.org/developers/internetarchive/cli.html#upload).
 
 ```
 export DATE=1989-02-01; ./ia upload NebraskaObserver-$DATE NebraskaObserver-$DATE.pdf \
