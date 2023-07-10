@@ -1,6 +1,6 @@
 # WHAMO / Nebraska Observer
 
-Digitizing an independent newspaper 1989-1991.
+Digitizing an independent newspaper 1987-1992.
 
 WHAMO: World Herald Attitude Monitoring Operation.
 
