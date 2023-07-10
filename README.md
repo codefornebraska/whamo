@@ -1,4 +1,4 @@
-# WHAMO
+# WHAMO / Nebraska Observer
 
 Digitizing an independent newspaper 1989-1991.
 
